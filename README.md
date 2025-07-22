@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @G-sharp
 - 👀 I’m interested in programming, movies and Jazz.
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning .NET, React and Azure Devops.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me： buptgr@gmail.com
 
